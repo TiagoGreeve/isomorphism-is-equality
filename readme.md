@@ -5,4 +5,4 @@ By Tiago Greeve TU Delft
 
 This repository links to the work of students for the Research project course of the CSE bachelor at TU Delft.
 
-Please see their projects [here]([https://cse3000-research-project.github.io/](http://resolver.tudelft.nl/uuid:09d15517-9c72-404b-b7ff-9bfef67519da)http://resolver.tudelft.nl/uuid:09d15517-9c72-404b-b7ff-9bfef67519da).
+Please see their projects [here](http://resolver.tudelft.nl/uuid:09d15517-9c72-404b-b7ff-9bfef67519da).
